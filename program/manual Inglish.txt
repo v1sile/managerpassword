@@ -1,0 +1,1 @@
+run the program through idle python, if you run the program through cmd, then after entering the character, the program will close. I left descriptions of the lines in the code so that it would be easy for a beginner to figure it out.
